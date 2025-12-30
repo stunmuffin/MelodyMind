@@ -1,0 +1,5 @@
+{
+  "name": "MelodyMind",
+  "description": "A comprehensive music theory application featuring interactive scale and chord visualizations, an AI-powered music theory assistant, and a high-fidelity album art generator.",
+  "requestFramePermissions": []
+}
