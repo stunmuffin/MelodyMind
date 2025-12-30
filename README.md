@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1u8BxNrvNOnDp9c8MIxmGcy
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+<img width="1362" height="796" alt="Melody Mindx" src="https://github.com/user-attachments/assets/937220dd-1b8a-4974-9057-404058e452a8" />
